@@ -1,38 +1,37 @@
-- key: Name
-  value: eumidion
-- key: Description
+- key: eumidion
   value:
     - welcome to my site
     - i hope you find your stay enjoyable
     - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
+    - stay true
   typed: true
-- key: CV
-  value: cv.pdf
-  url: /cv.pdf
-- key: Address
+
+- key: "socials"
+  value: |
+    - <h2>A little about me</h2>
+    - <p>This is a paragraph of text describing myself.</p> |
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
-- key: Contact
-  value:
-    - key: Office
-      value: Foobar Hall 1.23
-    - key: Phone
-      value: +1 234 567 890
-    - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
-- key: Profiles
-  value:
-    - value: Instagram
-      url: https://www.instagram.com
-    - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
-    - value: GitHub
-      url: https://github.com
+    - value: Spotify
+      url: https://open.spotify.com/artist/7GVuWloS8G6a3jT3gdUwiy?\
+    - value: Apple Music
+      url: https://music.apple.com/us/artist/eumidion/6776029065
+    - value: IG
+      url: https://www.instagram.com/eumidion/
+    - value: YT
+      url: https://www.youtube.com/@eumidion
